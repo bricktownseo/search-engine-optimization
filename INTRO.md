@@ -1,7 +1,5 @@
 # Introduction to Search Engine Optimization
 
-In this series we cover the bare minimums of SEO, what it is, and what we are trying to accomplish through SEO. We will also discuss PPC advertising and why/where it is useful. 
-
 1. [What is Search Engine Optimization (SEO)?](#what)
 2. [Where does SEO apply?](#where)
 3. [Can every business benefit from SEO?](#everyone)
