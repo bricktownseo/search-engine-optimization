@@ -6,7 +6,7 @@ This is a guidebook that has been put together for anyone who is looking to incr
 
 ## [1. Introduction to SEO](INTRO.md)
 
-In this series we will cover the bare minimums of SEO, what it is, and what we are trying to accomplish through SEO. We will briefly touch on HTML, CSS, and JavaScript and give a surface level comprehension of CMS systems.
+In this series we cover the bare minimums of SEO, what it is, and what we are trying to accomplish through SEO. We will briefly touch on HTML, CSS, and JavaScript and give a surface level comprehension of Content Management Systems (CMS).
 
 ## [2. HTML, CSS, and JavaScript](HTML.md)
 
@@ -35,3 +35,11 @@ Details, Backlinks, Anchor Text, DA, PA, TF, CF, etc
 ## [7. SEO Tools Etc.](OFFSITE.md)
 
 Details
+
+## [8. Definitions](OFFSITE.md)
+
+* Anchor Text - The text of a link that is clicked on by a visitor to a website. This can be the url itself, keywords, or a brand name.
+* DA - Domain Authority - A measure of the root power of the domain. This *does not* change whether you are on the homepage or an inner page.
+* Keyword - A keyword is a string of words that you type into the search engine, order is important and does generate different search results (LA Restaurants VS Restaurants LA)
+* PA - Page Authority - A measure of the power of the particular page you are on. This *does* change depending on whether you are on the homepage or an inner page.
+* SEO - Search Engine Optimization - The process of critically analyzing a website and making changes in order to impact the keyword ranking positions for that website.
