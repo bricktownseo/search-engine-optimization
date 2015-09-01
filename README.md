@@ -8,17 +8,17 @@ This is a guidebook that has been put together for anyone who is looking to incr
 
 In this series we cover the bare minimums of SEO, what it is, and what we are trying to accomplish through SEO. We will also discuss PPC advertising and why/where it is useful.
 
-## [2. HTML, CSS, and JavaScript](HTML.md)
+## [2. CMS Systems](CMS.md)
+
+Details, Wordpress, Joomla, Wix, GoDaddy Website Builder,
+
+## [3. HTML, CSS, and JavaScript](HTML.md)
 
 Details, HTML, CSS, JavaScript, H1-H6 tags, Body Tag, Header Tag, Script Tag, Mobile Friendly / Responsive Web Design
 
-## [3. Domains, IPs, and Hosting](DOMAINS.md)
+## [4. Domains, IPs, and Hosting](DOMAINS.md)
 
 Details about domains, DNS, IPs, Hosting etc (very technical breakdown)
-
-## [4. CMS Systems](CMS.md)
-
-Details, Wordpress, Joomla, Wix, GoDaddy Website Builder,
 
 ## [5. SEO Metrics](SEO.md)
 
