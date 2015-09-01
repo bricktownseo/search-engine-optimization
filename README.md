@@ -36,4 +36,4 @@ Details, Backlinks, Anchor Text, DA, PA, TF, CF, etc
 
 Details
 
-## [8. Definitions](DEFINITIONS.md)
+## [9. Definitions](DEFINITIONS.md)
