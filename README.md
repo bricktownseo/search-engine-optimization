@@ -24,16 +24,16 @@ Details about domains, DNS, IPs, Hosting etc (very technical breakdown)
 
 Details, DA, PA, TF, CF, ?
 
-## [6. On-Site SEO](ONSITE.md)
+## [6. SEO Tools Etc.](TOOLS.md)
+
+Details
+
+## [7. On-Site SEO](ONSITE.md)
 
 Details Page Titles, Page Descriptions, H1 - H6 tags, keyword density etc
 
-## [7. Off-Site SEO](OFFSITE.md)
+## [8. Off-Site SEO](OFFSITE.md)
 
 Details, Backlinks, Anchor Text, DA, PA, TF, CF, etc
-
-## [8. SEO Tools Etc.](TOOLS.md)
-
-Details
 
 ## [9. Definitions](DEFINITIONS.md)
